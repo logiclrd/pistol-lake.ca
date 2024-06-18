@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cp idle/dog.png ../wwwroot/Dog/
+cp activate/activate.gif ../wwwroot/Dog/
+cp deactivate/deactivate.gif ../wwwroot/Dog/

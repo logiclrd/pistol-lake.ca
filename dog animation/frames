@@ -1,0 +1,14 @@
+#!/bin/sh
+
+cp "dog animation frame 1.png" idle/dog.png
+
+cp "dog animation frame 2.png" "activate/activate frame 1.png"
+cp "dog animation frame 3.png" "activate/activate frame 2.png"
+cp "dog animation frame 4.png" "activate/activate frame 3.png"
+cp "dog animation frame 5.png" "activate/activate frame 4.png"
+
+cp "dog animation frame 4.png" "deactivate/deactivate frame 1.png"
+cp "dog animation frame 3.png" "deactivate/deactivate frame 2.png"
+cp "dog animation frame 2.png" "deactivate/deactivate frame 3.png"
+cp "dog animation frame 1.png" "deactivate/deactivate frame 4.png"
+
