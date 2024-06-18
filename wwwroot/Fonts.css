@@ -1,0 +1,53 @@
+@font-face
+{
+	font-family: Oldventure;
+	src: url('Fonts/oldventure-webfont.woff2') format('woff2'),
+			 url('Fonts/oldventure-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: Blackjack;
+	src: url('Fonts/blackjack-webfont.woff2') format('woff2'),
+			 url('Fonts/blackjack-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: Alegreya;
+	src: url('Fonts/alegreya-regular-webfont.woff2') format('woff2'),
+			 url('Fonts/alegreya-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'Alegreya Italic';
+	src: url('Fonts/alegreya-italic-webfont.woff2') format('woff2'),
+			 url('Fonts/alegreya-italic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'Alegreya Bold';
+	src: url('Fonts/alegreya-bold-webfont.woff2') format('woff2'),
+			 url('Fonts/alegreya-bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face
+{
+	font-family: 'Alegreya Black Italic';
+	src: url('Fonts/alegreya-blackitalic-webfont.woff2') format('woff2'),
+			 url('Fonts/alegreya-blackitalic-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
