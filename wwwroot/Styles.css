@@ -68,9 +68,33 @@ a
 	right: 1vw;
 }
 
+.Dog h2.Outline
+{
+	position: absolute;
+	right: 0px;
+	bottom: 25px;
+	margin-bottom: 0;
+	width: 100vw;
+	padding-right: 210px;
+	text-align: right;
+	overflow: visible;
+	display: inline;
+	text-stroke: 4px black;
+	-webkit-text-stroke: 4px black;
+	z-index: -1;
+}
+
 .Dog h2
 {
+	position: absolute;
+	right: 0px;
+	bottom: 25px;
+	margin-bottom: 0;
+	width: 100vw;
+	padding-right: 210px;
+	text-align: right;
 	display: inline;
+	z-index: -1;
 }
 
 @media only screen and (max-width: 980px) and (orientation: portrait)
